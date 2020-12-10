@@ -1,3 +1,3 @@
 import { createAction } from '@ngrx/store';
 
-export const toggleMaskName = createAction('[User] Toggle Mask Name');
+export const maskUserName = createAction('[User] Mask User Name');
